@@ -13,3 +13,30 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Firebase
+firebase.json
+.firebaserc
+firebase-debug.log
+.firebase/
+
+# Node modules (if used with Firebase hosting)
+node_modules/
+
+# Environment and secret files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
