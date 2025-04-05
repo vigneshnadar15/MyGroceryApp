@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Thangam Store</string>
+
+    <string name="name">Thangam Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_image">hello\n</string>
+
+    <string name="add">+</string>
+    <string name="sub">Add To Cart</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>

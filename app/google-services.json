@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "688960038720",
+    "firebase_url": "https://loggin-8534e-default-rtdb.firebaseio.com",
+    "project_id": "loggin-8534e",
+    "storage_bucket": "loggin-8534e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688960038720:android:5e5d354de5a9e441637ca5",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRrvAksL0lT34Eqwp48ZeqVYJr3i9MGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688960038720:android:1a67757783be4e26637ca5",
+        "android_client_info": {
+          "package_name": "com.example.thangamstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRrvAksL0lT34Eqwp48ZeqVYJr3i9MGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
